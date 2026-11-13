@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Hey, I'm Siddh Bhavsar!<br><br>- 💼 **Associate L1 Business Analyst** | Bridging Business & Technology<br>- 🚀 Turning business requirements into automated, modern solutions.<br>- ⚙️ Experienced in Digital Transformation, Portal Modernisation & RFPs.<br>- 💻 .NET | React | Python | Java | JavaScript<br>- 📚 Exploring Software Architecture, Palantir & Automation Testing.<br>- 🎵 Tabla Artist | Pursuing Visharad.<br><br>**Ask me about:** Business Analysis, Requirement Engineering & Problem Solving.
+### 👋 Hey, I'm Siddh Bhavsar!<br><br>- 💼 **Associate L1 Business Analyst** | Bridging Business & Technology<br>- 🚀 Turning business requirements into automated, modern solutions.<br>- ⚙️ Experienced in Digital Transformation, Portal Modernisation & RFPs.<br>- 💻 .NET | React | Python | Java | JavaScript<br>- 📚 Exploring Software Architecture, Palantir & Automation Testing.<br>- 🎵 Tabla Artist | Pursuing Visharad.<br><br>**💬Ask me about:** Business Analysis, Requirement Engineering & Problem Solving.
 
 
 ## 🌐 Socials:
